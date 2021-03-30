@@ -1,0 +1,2 @@
+sudo chmod a+x Instalar-Opencfu.sh
+./Instalar_Opencfu.sh  --Execute
